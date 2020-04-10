@@ -703,17 +703,17 @@ PRODUCT_PACKAGES += \
     com.quicinc.cne.server@2.1 \
     com.quicinc.cne.server@2.2 \
     com.quicinc.cne.server@2.3 \
-    QtiTelephonyService \
-    SoterService \
-    datastatusnotification \
-    embms \
-    imssettings \
-    CNEService \
-    WfdService \
-    dpmserviceapp \
-    ims \
-    qcrilmsgtunnel \
-    PowerOffAlarm \
-    TimeService \
-    WfdCommon \
+#    QtiTelephonyService \
+#    SoterService \
+#    datastatusnotification \
+#    embms \
+#    imssettings \
+#    CNEService \
+#    WfdService \
+#    dpmserviceapp \
+#    ims \
+#    qcrilmsgtunnel \
+#    PowerOffAlarm \
+#    TimeService \
+#    WfdCommon \
     chargeonlymode
